@@ -28,7 +28,7 @@ I am currently expanding my knowlodge in Machine Learning and completing as many
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKF-92&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevinFerko&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
