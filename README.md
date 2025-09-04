@@ -3,7 +3,7 @@
 ### About me :adult:
 I am Devin, I am a solution-oriented software engineer, problem solver, and lifelong learner with previous experience in data analysis. I am passionate about data science because it provides me with the satisfaction to overcome challenges and solve problems.
 
-I am currently expanding my knowlodge in Machine Learning and completing as many projects as I can! 
+I am currently expanding my knowledge in Machine Learning and completing as many projects as I can! 
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Devin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devin-ferko/)
 - ✨ Kaggle Profile: https://www.kaggle.com/devinferko
