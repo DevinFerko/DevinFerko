@@ -27,8 +27,6 @@ I am currently expanding my knowledge in Machine Learning and completing as many
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspi" alt="raspi" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevinFerko&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
