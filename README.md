@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png")
 
 ### About me :adult:
 I am Devin, I am a solution-oriented software engineer, problem solver, and lifelong learner with previous experience in data analysis. I am passionate about data science because it provides me with the satisfaction to overcome challenges and solve problems.
